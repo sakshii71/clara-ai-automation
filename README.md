@@ -468,5 +468,10 @@ This project demonstrates how an automation system can convert real-world custom
 
 The pipeline is modular, repeatable, and version-controlled, making it suitable for scaling onboarding workflows across multiple customer accounts.
 
+## Demo Video
+
+Loom walkthrough of the automation pipeline:
+
+https://www.loom.com/share/df92b953212e4ebc92d141aca5caa492
 
 
